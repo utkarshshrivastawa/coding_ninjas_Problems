@@ -70,3 +70,8 @@ if n.isalpha():
         print(1)
 else:
     print(-1)
+
+NOTE  : 
+isalpha() is used for checking the given data is alphabetically order 
+islower() is used for checking the given sentence or character is in lower case 
+isupper() is used for checking the given sentence or character is in upper case
