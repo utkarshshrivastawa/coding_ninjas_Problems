@@ -59,7 +59,7 @@
 # Can you check in which range of characters ‘CH’ lie to check its type?
 
 
-** CODE : 
+ # CODE : 
 # Read input as specified in the question.
 # Print output as specified in the question.
 n = input()
